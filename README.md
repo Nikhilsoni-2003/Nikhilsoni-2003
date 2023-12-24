@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tech stack and implement the to built something to solve sone real world problems
 - 🌱 I’m currently learning javascript anddata structures and algorithm
 - 💞️ I’m looking to collaborate on some realworld projects based on js
-- 📫 you can reachout me :
+- 📫 You can reachout me :
       niksoni619@gmail.com
 
 <!---
