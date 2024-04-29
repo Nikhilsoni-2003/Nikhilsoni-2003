@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhilsoni-2003
 - 👀 I’m interested in learning new tech stack and implement the to built something to solve sone real world problems
-- 🌱 I’m currently learning javascript anddata structures and algorithm
+- 🌱 I’m currently learning javascript and data structures and algorithm
 - 💞️ I’m looking to collaborate on some realworld projects based on js
 - 📫 You can reachout me :
       niksoni619@gmail.com
